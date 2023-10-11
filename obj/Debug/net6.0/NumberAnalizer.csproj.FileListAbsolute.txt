@@ -1,0 +1,14 @@
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\NumberAnalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\NumberAnalizer.AssemblyInfoInputs.cache
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\NumberAnalizer.AssemblyInfo.cs
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\NumberAnalizer.csproj.CoreCompileInputs.cache
+C:\Users\peggy\source\repos\NumberAnalizer\bin\Debug\net6.0\NumberAnalizer.exe
+C:\Users\peggy\source\repos\NumberAnalizer\bin\Debug\net6.0\NumberAnalizer.deps.json
+C:\Users\peggy\source\repos\NumberAnalizer\bin\Debug\net6.0\NumberAnalizer.runtimeconfig.json
+C:\Users\peggy\source\repos\NumberAnalizer\bin\Debug\net6.0\NumberAnalizer.dll
+C:\Users\peggy\source\repos\NumberAnalizer\bin\Debug\net6.0\NumberAnalizer.pdb
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\NumberAnalizer.dll
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\refint\NumberAnalizer.dll
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\NumberAnalizer.pdb
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\NumberAnalizer.genruntimeconfig.cache
+C:\Users\peggy\source\repos\NumberAnalizer\obj\Debug\net6.0\ref\NumberAnalizer.dll
